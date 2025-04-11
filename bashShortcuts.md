@@ -63,9 +63,9 @@
 | !!                | Run PREVIOUS command (ie `sudo !!`) |
 | !vi               | Run PREVIOUS command that BEGINS with vi |
 | !vi:p             | Print previously run command that BEGINS with vi |
-| !n		            | Execute nth command in history |
-| !$		            | Last argument of last command |
-| !^		            | First argument of last command |
+| !n            | Execute nth command in history |
+| !$            | Last argument of last command |
+| !^            | First argument of last command |
 
 ## Kill a job
 
@@ -85,5 +85,5 @@ kill %1
 
 ## References
 
-1. http://cnswww.cns.cwru.edu/php/chet/readline/readline.html
-2. https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/README.md
+1. <http://cnswww.cns.cwru.edu/php/chet/readline/readline.html>
+2. <https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/README.md>
