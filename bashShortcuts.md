@@ -87,3 +87,9 @@ kill %1
 
 1. <http://cnswww.cns.cwru.edu/php/chet/readline/readline.html>
 2. <https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/README.md>
+
+3. Speedcoder.net
+All other typing tutors are aimed for general english, and do not provide practice for special characters used frequently in programming. With SpeedCoder you focus on those characters and keywords. This help you in reducing typing mistakes and improve your overall typing speed.
+
+4. Shortcutfoo.com
+shortcutFoo is an online tool for programmers to improve your programming speed by practising the shortcuts of major IDEs, thus to make your editor fun, easy, and effective.
