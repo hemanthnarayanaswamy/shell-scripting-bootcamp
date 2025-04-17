@@ -37,3 +37,12 @@ else
         echo 3
     fi
 fi
+
+###########################
+
+x=$1
+y=$2
+[[ $x -ge 0 && $y -ge 0 ]] && echo "1" && exit
+[[ $x -lt 0 && $y -ge 0 ]] && echo "2" && exit
+[[ $x -lt 0 && $y -lt 0 ]] && echo "3" && exit
+[[ $x -ge 0 && $y -lt 0 ]] && echo "4" && exit
